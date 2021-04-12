@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.select-image:hover{
+  cursor: pointer;
+  border-bottom: 4px solid #407AB1;
+  margin-bottom: 3px;
+  transition: 200ms;
+}
